@@ -1,0 +1,74 @@
+{
+  "docteurs": [
+    {
+      "id": 1,
+      "name": "Philippine Garnier",
+      "contact": "0382117782",
+      "adresse": "497, chemin Vallet\n04 500 Leleu",
+      "status": "Disponible"
+    },
+    {
+      "id": 2,
+      "name": "Alain Bousquet",
+      "contact": "034894414",
+      "adresse": "3, chemin Michelle Gonzalez\n32640 Charles",
+      "status": "Indisponible"
+    },
+    {
+      "id": 3,
+      "name": "Claudine Parent",
+      "contact": "033582766",
+      "adresse": "5, boulevard Thomas Benard\n54087 Baronboeuf",
+      "status": "Disponible"
+    },
+    {
+      "id": 4,
+      "name": "Édouard Lopez",
+      "contact": "0335637773",
+      "adresse": "75, rue Marcel Fleury\n84 360 Chauveau-sur-Menard",
+      "status": "Disponible"
+    },
+    {
+      "id": 5,
+      "name": "Timothée Blanchard",
+      "contact": "034140818",
+      "adresse": "69, rue Maillot\n26 030 Leconte",
+      "status": "Disponible"
+    },
+    {
+      "id": 6,
+      "name": "Marc Fischer",
+      "contact": "0324819924",
+      "adresse": "43, chemin de Marchand\n02 388 Etienne",
+      "status": "Disponible"
+    },
+    {
+      "id": 7,
+      "name": "Stéphane Lucas",
+      "contact": "0335242466",
+      "adresse": "3, rue Pascal\n61423 Rocher-les-Bains",
+      "status": "Disponible"
+    },
+    {
+      "id": 8,
+      "name": "Amélie Philippe",
+      "contact": "0383765492",
+      "adresse": "90, rue Jacob\n11 581 Lebrun",
+      "status": "Disponible"
+    },
+    {
+      "id": 9,
+      "name": "Manon Raymond",
+      "contact": "034497713",
+      "adresse": "39, rue Adélaïde Pruvost\n41988 Gomes-les-Bains",
+      "status": "Disponible"
+    },
+    {
+      "id": 10,
+      "name": "Constance Colas",
+      "contact": "0343433680",
+      "adresse": "64, chemin Dominique Hernandez\n58 777 Allain-sur-Dumas",
+      "status": "Disponible"
+    }
+  ]
+}
