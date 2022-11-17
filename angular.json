@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-14-crud-example": {
+    "manage-docteurs-application-web": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,13 +13,13 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/angular-14-crud-example",
+            "outputPath": "dist/manage-docteurs-application-web",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
-              "src/favicon.ico",
+              "src/favicon.png",
               "src/assets"
             ],
             "styles": [
@@ -69,10 +69,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "angular-14-crud-example:build:production"
+              "browserTarget": "manage-docteurs-application-web:build:production"
             },
             "development": {
-              "browserTarget": "angular-14-crud-example:build:development"
+              "browserTarget": "manage-docteurs-application-web:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -80,7 +80,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "angular-14-crud-example:build"
+            "browserTarget": "manage-docteurs-application-web:build"
           }
         },
         "test": {
